@@ -3,7 +3,7 @@
    <p>composer install</p>
    <p>php artisan migrate --seed</p>
    <p>php artisan serve</p>
-3. Test API via Postman with the token: Bearer <strong>secrettesttoken123<strong>
+3. Test API via Postman with the token: Bearer <strong>secrettesttoken123</strong>
 4. Available routes to test:
    <ul>
        <li>http://localhost:8888/api/translations (GET) (To get all the list of translations)</li>
